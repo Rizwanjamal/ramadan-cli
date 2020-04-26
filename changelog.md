@@ -32,6 +32,155 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [3.1.1](https://github.com/ahmadawais/ramadan-cli/compare/3.1.0...3.1.1)
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [3.1.0](https://github.com/ahmadawais/ramadan-cli/compare/3.0.0...3.1.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Dates [`4cfd2ee`](https://github.com/ahmadawais/ramadan-cli/commit/4cfd2eeaf03eedf53c86eae19815f33afa8ba3bd) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`1189833`](https://github.com/ahmadawais/ramadan-cli/commit/118983310e34597b5afc0652f361781760a9a796) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [3.0.0](https://github.com/ahmadawais/ramadan-cli/compare/2.0.1...3.0.0)
+
+![BREAKING](https://img.shields.io/badge/-BREAKING%20CHANGES-gray.svg?colorB=F91800)
+
+> ‼️ Date Diff [`e5e52fc`](https://github.com/ahmadawais/ramadan-cli/commit/e5e52fcf944e65ac7066ebf0174e23517da5cc46) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`d2b4cbc`](https://github.com/ahmadawais/ramadan-cli/commit/d2b4cbce52a508cc72c93873d8eb320c0dc82c90) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [2.0.1](https://github.com/ahmadawais/ramadan-cli/compare/2.0.0...2.0.1)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Nice name [`ef4d6fd`](https://github.com/ahmadawais/ramadan-cli/commit/ef4d6fd013be3628154cba7c13d60fdb48ffe979) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`fc83b1e`](https://github.com/ahmadawais/ramadan-cli/commit/fc83b1e68362ce74c6bf2ceae4f755ed932244a0) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [2.0.0](https://github.com/ahmadawais/ramadan-cli/compare/1.5.0...2.0.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 peshawar [`c8884e6`](https://github.com/ahmadawais/ramadan-cli/commit/c8884e68268b88aa4cc208f5a9073d69785b7eaa) <br>
+> 📦 Multan [`d300617`](https://github.com/ahmadawais/ramadan-cli/commit/d300617004eddc517ed6eadfba3826cb5d2ba55c) <br>
+> 📦 sialkot [`eaa40d2`](https://github.com/ahmadawais/ramadan-cli/commit/eaa40d268ba3ae84018eda1bc1fd4c33dd91fe7b) <br>
+> 📦 quetta [`0158fa6`](https://github.com/ahmadawais/ramadan-cli/commit/0158fa68b188e05552c914ef275521a94543fe01) <br>
+> 📦 rawalpindi [`5d941d1`](https://github.com/ahmadawais/ramadan-cli/commit/5d941d1e74074df9d9497a54cbb135275d26fdfe) <br>
+> 📦 gujranwala [`628cc8e`](https://github.com/ahmadawais/ramadan-cli/commit/628cc8ee158c38af8a7884bf6f40d8081ae21ef4) <br>
+> 📦 faisalabad [`0de0b10`](https://github.com/ahmadawais/ramadan-cli/commit/0de0b1063eb3c8c58918175c7a8f126f0bb19287) <br>
+> 📦 hyderabad [`45ec51b`](https://github.com/ahmadawais/ramadan-cli/commit/45ec51b19e8d0688bdf1d9b957c08a19e163086a) <br>
+> 📦 Contribute [`98bed6e`](https://github.com/ahmadawais/ramadan-cli/commit/98bed6eec25f7aee51220fd69c2151d2e9b49095) <br>
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Isb [`aff8370`](https://github.com/ahmadawais/ramadan-cli/commit/aff8370823465dd0e13b2befc88018c00146b74b) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`99f069d`](https://github.com/ahmadawais/ramadan-cli/commit/99f069d07b2563339d57426458a5173c6c41ca61) <br>
+> 📖 Features [`c9e5a72`](https://github.com/ahmadawais/ramadan-cli/commit/c9e5a72b57400c544d39d6b4fe845a2f7e4d8c02) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [1.5.0](https://github.com/ahmadawais/ramadan-cli/compare/1.4.0...1.5.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Karachi [`bbf639f`](https://github.com/ahmadawais/ramadan-cli/commit/bbf639f6da5e060861dcca4abae8a1ec8509701d) <br>
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 City refactor [`20ee9f9`](https://github.com/ahmadawais/ramadan-cli/commit/20ee9f9aa9f01515d4a6a04290430a895170e94a) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`c72740e`](https://github.com/ahmadawais/ramadan-cli/commit/c72740e9a69e5b98b3204089392e62ed812b8e36) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [1.4.0](https://github.com/ahmadawais/ramadan-cli/compare/1.3.0...1.4.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 log-symbols [`9e0bf92`](https://github.com/ahmadawais/ramadan-cli/commit/9e0bf92744dab579dde75f8cae8f28baa746f5d6) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`06dc18e`](https://github.com/ahmadawais/ramadan-cli/commit/06dc18eab652f2edf7892f7b14b45b856e1c1a94) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [1.3.0](https://github.com/ahmadawais/ramadan-cli/compare/1.2.0...1.3.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 cli-table3 [`e08fc22`](https://github.com/ahmadawais/ramadan-cli/commit/e08fc223848724d756c1d8c96857ef74e14e1b44) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`f801543`](https://github.com/ahmadawais/ramadan-cli/commit/f8015435ab52a53dca29f0acbc57860016169720) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [1.2.0](https://github.com/ahmadawais/ramadan-cli/compare/1.1.0...1.2.0)
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`942e5bf`](https://github.com/ahmadawais/ramadan-cli/commit/942e5bf9e1738b7b070e6d5b31abd48f3790a562) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [1.1.0](https://github.com/ahmadawais/ramadan-cli/compare/1.0.4...1.1.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
@@ -40,6 +189,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+> 📖 Changelog [`dc3dc40`](https://github.com/ahmadawais/ramadan-cli/commit/dc3dc4037295d29c1a8f45b4274602d9bcf10459) <br>
 > 📖 Gif or didnt happen [`26c51fb`](https://github.com/ahmadawais/ramadan-cli/commit/26c51fb9d9c1314e661fad35a4fadf8516d7076a) <br>
 
 <br>
